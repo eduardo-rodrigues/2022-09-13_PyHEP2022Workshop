@@ -6,6 +6,8 @@ of the [Scikit-HEP project](http://scikit-hep.org/)
 at the [PyHEP 2022 workshop](https://indico.cern.ch/e/PyHEP2022)
 on September 13th 2022.
 
+[![DOI](https://zenodo.org/badge/534701248.svg)](https://zenodo.org/badge/latestdoi/534701248)
+
 ## Abstract
 
 An overview of the Particle & DecayLanguage packages is given. Particle provides a pythonic interface to the Particle Data Group particle data tables and particle identification codes, with extended particle information and extra goodies. DecayLanguage provides tools to parse so-called .dec decay files, and describe, manipulate and visualise decay chains. DecayLanguage also implements a language to describe and convert particle decays between digital representations, effectively making it possible to interoperate several fitting programs.
